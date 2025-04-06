@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1g2yp5jfwVxwAEES1L_HAD0ahsP0T1Z1e
 """
 
-!pip install -q -U google-generativeai
-
 import pathlib
 import textwrap
 import google.generativeai as genai
